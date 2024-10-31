@@ -48,6 +48,10 @@ This project was created using the following tools:
    **Version Control**: Git is used for version control.
    **Integrated Development Environment (IDE)**: IntelliJ IDEA for coding and debugging.
 
-# License
+## License
 
    **This project is distributed under the Apache License Version 2.0 (see LICENSE file for details).**
+
+## Author
+
+- **Fábio Kazmierczak** - [GitHub Profile](https://github.com/fabiokaz)
