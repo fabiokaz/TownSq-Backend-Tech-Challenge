@@ -24,7 +24,7 @@ This project implements a robust and secure RESTful API built with Java and Spri
    You can visit [https://bcrypt-generator.com/](https://bcrypt-generator.com/) if needed.
 
 
-3**Navigate to the Project Directory:**
+3. **Navigate to the Project Directory:**
    cd TownSq-Backend-Tech-Challenge
 
 4. **Build the project:**
