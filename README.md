@@ -19,13 +19,10 @@ This project implements a robust and secure RESTful API built with Java and Spri
 2. **Navigate to the Project Directory:**
    cd TownSq-Backend-Tech-Challenge
 
-3. **Install the required dependencies:**
-   mvn install
+3. **Build the project:**
+   mvn clean install
 
-4. **Build the project:**
-   mvn clean package
-
-5. **Run the application:**
+4. **Run the application:**
    java -jar target/townsq-backend-tech-challenge-0.0.1-SNAPSHOT.jar
 
 ## API Documentation
@@ -54,9 +51,3 @@ This project was created using the following tools:
 # License
 
    **This project is distributed under the Apache License Version 2.0 (see LICENSE file for details).**
-
-
-
-
-
-
