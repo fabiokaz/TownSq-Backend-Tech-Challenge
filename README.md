@@ -15,7 +15,15 @@ This project implements a robust and secure RESTful API built with Java and Spri
 
    ```bash
    git clone https://github.com/fabiokaz/TownSq-Backend-Tech-Challenge.git
-   
+
+2. **Modify users password**
+
+   Access the `data.sql` file located in the `\TownSq-Backend-Tech-Challenge\src\main\resources\` folder and change the passwords for the `townsq_super` and `townsq_manager` users to a password of your choice, using BCrypt encoding.
+   * **The reason these two users are created at system initialization is because the requirements specify that there must be a user named `townsq_super`, and other users should be created with the `DEFAULT` role.**
+
+   You can visit [https://bcrypt-generator.com/](https://bcrypt-generator.com/) if needed.
+
+
 2. **Navigate to the Project Directory:**
    cd TownSq-Backend-Tech-Challenge
 
