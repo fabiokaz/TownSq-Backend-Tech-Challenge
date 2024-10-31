@@ -14,7 +14,7 @@ This project implements a robust and secure RESTful API built with Java and Spri
 1. **Clone the Repository:**
 
    ```bash
-   git clone [https://github.com/fabiokaz/TownSq-Backend-Tech-Challenge.git](https://github.com/fabiokaz/TownSq-Backend-Tech-Challenge.git)
+   git clone https://github.com/fabiokaz/TownSq-Backend-Tech-Challenge.git
    
 2. **Navigate to the Project Directory:**
    cd TownSq-Backend-Tech-Challenge
